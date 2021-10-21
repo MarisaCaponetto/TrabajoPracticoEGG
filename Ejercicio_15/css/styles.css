@@ -1,0 +1,26 @@
+.header {
+    margin-left: 2%;
+}
+
+.container-form {
+    border: 1px solid lightgray;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.label {
+    margin: 1%;
+}
+
+.check {
+    margin-left: 1%;
+}
+
+.check-text {
+    margin-left: 1%;
+}
+
+.button {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

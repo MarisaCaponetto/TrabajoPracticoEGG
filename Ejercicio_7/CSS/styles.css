@@ -1,0 +1,20 @@
+body {
+    background-color: orangered;
+}
+
+.titulo1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.titulo2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.parrafo1,
+.parrafo2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-align: left;
+}

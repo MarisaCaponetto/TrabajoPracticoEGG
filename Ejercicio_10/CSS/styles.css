@@ -1,0 +1,104 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1#titulo {
+    color: cadetblue;
+}
+
+body>p>strong {
+    color: red;
+}
+
+.destacado {
+    color: orange;
+}
+
+#subtitulo {
+    font-weight: bold;
+    color: blue;
+}
+
+body>p>a {
+    color: red;
+}
+
+body>p>a>em {
+    color: blue;
+}
+
+body>p>span {
+    color: darkviolet;
+}
+
+
+/**Espaciado y distribucion de la tabla**/
+
+table {
+    table-layout: fixed;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+
+tr,
+th,
+td {
+    border: 1px solid grey;
+}
+
+thead th:nth-child(1) {
+    width: 7%;
+}
+
+thead th:nth-child(2) {
+    width: 15%;
+}
+
+thead th:nth-child(3) {
+    width: 15%;
+}
+
+th,
+td {
+    padding: 4px;
+}
+
+table>thead>tr>th {
+    color: orange;
+}
+
+table>tbody>tr>.especial {
+    color: orange;
+}
+
+table>tbody>tr>td {
+    color: green;
+}
+
+table>tbody>tr>td>strong {
+    color: orange;
+}
+
+table>tbody>tr>th {
+    color: red;
+}
+
+table>tfoot>tr>th {
+    color: red;
+}
+
+
+/*Div Adicional*/
+
+#adicional {
+    color: grey;
+}
+
+body>div>p>#especial {
+    color: fuchsia;
+}
+
+body>div>p>a {
+    color: darkgreen;
+}

@@ -1,0 +1,35 @@
+.product {
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+.product1-image {
+    margin-top: 10%;
+}
+
+.product2-image {
+    margin-top: 30%;
+}
+
+.product3-image {
+    margin-top: 30%;
+}
+
+.product-price {
+    text-align: center;
+}
+
+.product-description {
+    margin-top: 5%;
+}
+
+.add-button,
+.buy-button {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.buy-button {
+    margin-bottom: 10%;
+}
